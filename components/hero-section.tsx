@@ -23,7 +23,7 @@ export function HeroSection() {
                 </Link>
               </Button>
               <Button size="lg" variant="outline" asChild>
-                <Link href="https://t.me/astracatui" target="_blank" rel="noopener noreferrer">
+                <Link href="https://t.me/astracatuo" target="_blank" rel="noopener noreferrer">
                   Telegram канал
                 </Link>
               </Button>
